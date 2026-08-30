@@ -7,11 +7,11 @@
 ### CSE Student @ VIT Chennai • Developer • Builder • Hackathon Enthusiast
 
 <a href="https://www.linkedin.com/in/sunal-sharma-3170aa284/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 &nbsp;
 <a href="https://github.com/SunalSharma">
-  <img src="https://img.shields.io/badge/GitHub-SunalSharma-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-SunalSharma-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
