@@ -27,8 +27,8 @@ I enjoy turning ideas into working projects, experimenting with AI/software,
 and taking on hackathons where I can learn something new under pressure.
 
 Currently exploring:
-→ Python & Problem Solving
+→ Python & problem solving
 → Data Science / AI
 → Competitive Programming
 → Software Development
-→ Robotics & Swarm Drone Systems
+→ Robotics & swarm-drone systems
