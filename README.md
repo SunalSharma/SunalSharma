@@ -1,19 +1,21 @@
 <div align="center">
-<div align="center">
 
-<img src="./sunal_github_loading.gif" width="450" alt="Sunal Sharma">
+<img src="./sunal_github_loading.gif" width="420" alt="Sunal Sharma">
 
 # Hey, I'm Sunal 👋
 
 ### CSE Student @ VIT Chennai • Developer • Builder • Hackathon Enthusiast
 
-<a href="https://www.linkedin.com/in/sunal-sharma-3170aa284/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-&nbsp;
-<a href="https://github.com/SunalSharma">
-<img src="https://img.shields.io/badge/GitHub-SunalSharma-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/sunal-sharma-3170aa284/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/SunalSharma">
+    <img src="https://img.shields.io/badge/GitHub-SunalSharma-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=SunalSharma&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views">
 
 </div>
 
@@ -28,6 +30,7 @@ I enjoy turning ideas into working projects, experimenting with AI/software,
 and taking on hackathons where I can learn something new under pressure.
 
 Currently exploring:
+
 → Python & problem solving
 → Data Science / AI
 → Competitive Programming
