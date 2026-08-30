@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./sunal_github_loading.gif" width="650" alt="Sunal Sharma">
+<img src="./sunal_github_loading.gif" width="450" alt="Sunal Sharma">
 
 # Hey, I'm Sunal 👋
 
