@@ -1,7 +1,7 @@
+<div align="center">
 <p align="center">
   <img src="./sunal_reveal.gif" width="700">
 </p>
-<div align="center">
 # Hey, I'm Sunal 👋
 
 ### CSE Student @ VIT Chennai • Developer • Builder • Hackathon Enthusiast
