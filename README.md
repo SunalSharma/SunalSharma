@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./sunal_pixel_reveal.gif" width="700px" alt="Sunal Sharma">
+  <img src="./sunal_reveal.gif" width="700">
 </p>
 <div align="center">
 # Hey, I'm Sunal 👋
