@@ -1,7 +1,7 @@
-<div align="center">
 <p align="center">
   <img src="./sunal_pixel_reveal.gif" width="700px" alt="Sunal Sharma">
 </p>
+<div align="center">
 # Hey, I'm Sunal 👋
 
 ### CSE Student @ VIT Chennai • Developer • Builder • Hackathon Enthusiast
