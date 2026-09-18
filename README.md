@@ -39,38 +39,6 @@ I like turning ideas into working projects, experimenting with AI and software, 
 
 ---
 
-## 🚀 Projects
-
-### 🩺 MedInsight
-
-A tool designed to organize and surface patient medical history on top of existing hospital systems.
-
-**Focus:** Healthcare • Software • AI
-
----
-
-### 🌐 Campus Flow
-
-A campus-focused project aimed at improving student workflows and services.
-
-**Focus:** Campus Technology • Software Development
-
----
-
-### 🚁 Swarm Drone System
-
-Explored coordinated multi-drone behaviour and swarm-based systems.
-
-**Focus:** Robotics • Autonomous Systems
-
----
-
-### 🏆 Hackathon Projects
-
-Rapid prototypes focused on solving real-world problems through software and AI.
-
----
-
 ## 🧰 Tech Stack
 
 <div align="center">
